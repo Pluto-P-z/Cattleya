@@ -4,3 +4,4 @@
 前后端入口
 serve
 springbootApplication
+数据库文件在目录中movierecsys.sql
